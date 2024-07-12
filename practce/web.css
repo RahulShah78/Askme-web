@@ -1,0 +1,741 @@
+
+.gap{
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+.parent{
+  
+  background-image: url(https://graphicsfamily.com/wp-content/uploads/edd/2021/06/Food-Logo-Design.jpg);
+  width:100%;
+  height: 110vh;
+  display: block;
+
+}
+.logo{
+  margin-top: 3rem;
+  top: 3rem;
+  margin-left: 3rem;
+  height: 7rem;
+  width: 7rem;
+  border-radius: 10rem;
+
+}
+
+
+.p-1{
+  display: flex;
+  margin-top: 9x;
+  font-size: 92px;
+  color: #e6dddd;
+  margin-left:3%;
+}
+
+
+.p-2{
+  display: flex;
+  margin-bottom: 4rem;
+  color: #e6dddd;
+  margin-left: 3%;
+  font-size: 30px;
+}
+
+
+
+.button{
+
+  
+  color: #fcfbfb;
+  display: flex;
+  margin-left: 2rem;
+  margin-top:30rem;
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: red;
+  border: 1px solid rgb(10, 0, 0);
+  font-size: 25PX;
+  
+}
+
+.button:hover{
+  color: yellow;
+}
+
+.nav{
+  position: absolute;
+  top: 5%;
+  right: 16px;
+  color: rgb(237, 234, 234);
+  font-size: 18px;
+
+}
+
+.nav a {
+  text-decoration: none;
+  margin: 0 10px;
+  color:#fff;
+    font-size: 2rem;
+    margin: 0 .8rem;
+}
+
+@media  screen and (max-width: 750px){
+  .logo {
+    position: absolute;
+    top: 3rem;
+    margin-left: 2rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 102px;
+}
+
+.nav {
+  position: absolute;
+  top: 1%;
+  margin-right: -23rem;
+  padding: 0.3rem;
+  color: rgb(237, 234, 234);
+  font-size: 5rem;
+}
+
+
+  .nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: -1rem;
+}
+
+  .banner {
+    width: 195%;
+    height: 896px;
+    display: block;
+}
+
+
+.p-1 {
+  position: absolute;
+  top: 23rem;
+  font-size: 62px;
+  color: #e6dddd;
+  left: 6%;
+}
+
+.p-2 {
+  position: absolute;
+  top: 37rem;
+  color: #e6dddd;
+  left: 6%;
+  font-size: 18px;
+}
+
+.button {
+  position: absolute;
+  top: 46rem;
+  color: #fcfbfb;
+  left: 6%;
+  width: 154px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: red;
+  border: 1px solid rgb(10, 0, 0);
+  font-size: 18PX;
+}
+
+
+
+.banner-3 {
+  width: 113%;
+  height: 777px;
+  display: block;
+}
+
+    .p-3 {
+      position: absolute;
+      top: -3rem;
+      font-size: 68px;
+      color: #fe0404;
+      left: 15% !important;
+  }
+
+  }
+
+
+
+
+  
+
+
+
+/*banner 1 wala--------------------------------------------------------*/
+
+
+.parent-1{
+  position: relative;
+  width: 100%;
+  height: 777px;
+ background-image: url("https://tse2.mm.bing.net/th?id=OIP.cNTXTv9xWiV2iegMd1R0LQHaEo&pid=Api&P=0&h=180");
+}
+
+/*.banner-1 {
+  width: 100%;
+  height: 777px;
+ background-image: url("https://tse2.mm.bing.net/th?id=OIP.cNTXTv9xWiV2iegMd1R0LQHaEo&pid=Api&P=0&h=180");
+  display: block;
+  
+}*/
+
+
+.p-3{
+  position: absolute;
+  top: 2px;
+  font-size: 100px;
+  color: #fe0404;
+  left:36%;
+  
+  
+}
+
+.p-4{
+  position: absolute;
+  top: 24%;
+  color: #f70303;
+  left: 25%;
+  font-size: 30px;
+  
+}
+
+.p-44{
+  position: absolute;
+  top: 28%;
+  color: #f70303;
+  left: 31%;
+  font-size: 30px;
+}
+
+.p-5{
+  position: absolute;
+  top: 78%;
+  color: #fe0505;
+  left: 17%;
+  font-size: 40px;
+}
+
+.p-6{
+  position: absolute;
+  top: 78%;
+  color: #fc0404;
+  left: 46%;
+  font-size: 40px;
+}
+.p-7{
+  position: absolute;
+  top: 78%;
+  color: #fa0303;
+  left: 76%;
+  font-size: 40px;
+}
+
+.w-1{
+  position: absolute;
+  top: 86%;
+  color: #fa0303;
+  left: 18%;
+  font-size: 20px;
+}
+.w-2{
+  position: absolute;
+  top: 86%;
+  color: #fa0303;
+  left: 47%;
+  font-size: 20px;
+}
+.w-3{
+  position: absolute;
+  top: 86%;
+  color: #fa0303;
+  left: 77%;
+  font-size: 20px;
+}
+
+
+.image{
+  top: 30%;
+  background-color: #4f4b4b;
+}
+
+.c-1{
+  position: absolute;
+  top: 45%;
+  left: 10%;
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+  background-color: aliceblue;
+
+}
+
+.c-2{
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+  background-color: aliceblue;
+}
+
+.c-3{
+  position: absolute;
+  top: 45%;
+  right: 10%;
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+}
+
+
+
+/* banner 2--------------------------------------------------------------------------*/
+
+
+.parent-2{
+  position: relative;
+}
+
+.banner-2 {
+  width: 100%;
+  height:700px;
+  display: block;
+  
+}
+
+.b{
+  position: absolute;
+  top: 15%;
+  left: 9%;
+  height: 500px;
+  width: 500px;
+  border-radius: 500px;
+  background-color: rgb(247, 7, 7);
+
+}
+
+.button-1{
+  position: absolute;
+  top: 550px;
+  color: #fd0707;
+  left: 50%;
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(251, 2, 2);
+  font-size: 25PX;
+
+}
+.button-1:hover{
+  color: rgb(180, 180, 166);
+}
+
+.p-8{
+  position: absolute;
+  top: 100px;
+  font-size: 100px;
+  color: #fdfdfb;
+  left:50%;
+}
+
+.p-9{
+  position: absolute;
+  top: 350px;
+  color: #e6dddd;
+  left: 50%;
+  font-size: 30px;
+}
+
+
+/*banner-3-------------------------------------------------------------------------*/
+
+
+.parent-3{
+  position: relative;
+}
+
+.banner-3  {
+  width: 100%;
+  height: 777px;
+  display: block;
+  
+}
+
+
+
+.b-1{
+  position: absolute;
+  top: 90px;
+  left: 70%;
+  height: 300px;
+  width: 300px;
+  border-radius: 600px;
+
+}
+
+.p-10{
+  position: absolute;
+  top: 120px;
+  font-size: 70px;
+  color: #a30a0a;
+  left:10%;
+}
+
+.box-1{
+  position: absolute;
+  top: 450px;
+
+  left:20%;
+  border: 3px solid black;
+  background-color: #fdfcfc;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.box-2{
+  position: absolute;
+  top: 450px;
+  left:41.5%;
+  border: 3px solid black;
+  background-color: #fdfcfc;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.box-3{
+  position: absolute;
+  top: 450px;
+  right: 20%;
+  border: 3px solid black;
+  background-color: #fdfcfc;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+
+.burger-1{
+  position: absolute;
+  top: 58.5%;
+  left: 23.5%;
+  height: 150px;
+  width: 150px;
+  
+
+
+}
+
+.burger-2{
+  position: absolute;
+  top: 58.5%;
+  left: 44.5%;
+  height: 150px;
+  width: 150px;
+
+
+}
+
+.burger-3{
+  position: absolute;
+  top: 58.5%;
+  right: 23.5%;
+  height: 150px;
+  width: 150px;
+
+
+}
+
+.r-1{
+  position: absolute;
+  top: 70%;
+  font-size: 20px;
+  color: #fd0404;
+  left:26.5%;
+}
+
+.r-2{
+  position: absolute;
+  top: 70%;
+  font-size: 20px;
+  color: #fe0404;
+  left:48%;
+}
+
+.r-3{
+  position: absolute;
+  top: 70%;
+  font-size: 20px;
+  color: #fb0404;
+  right: 26.5%;
+}
+
+.l-1{
+  position: absolute;
+  top: 75%;
+  font-size: 15px;
+  color: #a30a0a;
+  left:20.5%;
+}
+
+.l-2{
+  position: absolute;
+  top: 75%;
+  font-size: 15px;
+  color: #a30a0a;
+  left:42%;
+}
+
+.l-3{
+  position: absolute;
+  top: 75%;
+  font-size: 15px;
+  color: #a30a0a;
+  right: 20.5%;
+}
+
+
+.button-3{
+  position: absolute;
+  top: 83%;
+  color: #fbf9f9;
+  left: 22%;
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: red;
+  border: 1px solid rgb(251, 2, 2);
+  font-size: 25PX;
+}
+
+.button-3:hover{
+  color: yellow;
+}
+
+.button-4{
+  position: absolute;
+  top: 83%;
+  color: #f7f6f6;
+  left: 43%;
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: red;
+  border: 1px solid rgb(252, 3, 3);
+  font-size: 25PX;
+}
+
+.button-4:hover{
+  color: yellow;
+}
+
+
+.button-5{
+  position: absolute;
+  top: 83%;
+  color: #f8f7f7;
+  right: 22%;
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: red;
+  border: 1px solid rgb(255, 3, 3);
+  font-size: 25PX;
+}
+
+.button-5:hover{
+  color: yellow;
+}
+
+
+
+
+
+
+/*banner-4---------------------------------------------------------------------------------*/
+
+
+.parent-4{
+  position: relative;
+}
+
+.banner-4{
+  width: 100%;
+  height: 700px;
+  display: block;
+}
+
+.p-11{
+  position: absolute;
+    top: 150px;
+    font-size: 40px;
+    color: #ebe4e4;
+    left:20%;
+    text-align: center;
+}
+
+.p-17{
+  position: absolute;
+    top: 200px;
+    font-size: 40px;
+    color: #ebe4e4;
+    left:20%;
+    text-align: center;
+}
+
+.p-18{
+  position: absolute;
+    top: 250px;
+    font-size: 40px;
+    color: #ebe4e4;
+    left:28%;
+    text-align: center;
+}
+
+.p-12{
+  position: absolute;
+  top: 60%;
+  font-size: 40px;
+  color: #ebe4e4;
+  left:40%;
+  text-align: center;
+}
+
+
+/*-banner 5------------------------------------------------------------------------------------------*/
+
+.parent-5{
+  position: relative;
+}
+
+.banner-5  {
+  width: 100%;
+  height: 700px;
+  display: block;
+  
+}
+
+.p-13{
+  position: absolute;
+  top: 10%;
+  font-size: 100px;
+  color: #fd0505;
+  left:18%;
+  align-items: center;
+  
+  
+}
+
+.p-14{
+  position: absolute;
+  top: 38%;
+  color: #f00505;
+  left: 20%;
+  font-size: 40px;
+}
+
+.p-15{
+  position: absolute;
+  top: 43%;
+  color: #f00505;
+  left: 23%;
+  font-size: 40px;
+}
+
+#email{
+  position: absolute;
+  top: 65%;
+  left: 22%;
+  width: 700px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: rgb(249, 247, 247);
+  border: 1px solid rgb(249, 247, 247);
+}
+
+.p-16{
+  position: absolute;
+  top: 62.5%;
+  color: #4f4b4b;
+  left: 25%;
+  font-size: 30px;
+  opacity: .5;
+}
+
+.button-6{
+  position: absolute;
+  top: 64.5%;
+  color: #f8f7f7;
+  left: 65%;
+  width: 200px;
+  height: 60px;
+  border-radius:  0px 30px 30px 0px;
+  background-color: rgb(251, 3, 3);
+  border: 1px solid red;
+  font-size: 25PX;
+}
+
+.button-6:hover{
+  color: yellow;
+}
+
+/*--footer ---------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.footer{
+  background: #333;
+  height: 700px;
+  
+}
+
+.logo-2{
+  
+  display: inline;
+  padding: 30px;
+}
+
+.footer .box-container{
+  display: flex;
+  gap: 5rem;
+}
+
+.footer .box-container .box{
+  padding: 5rem 0rem;
+  flex: 1 1 25rem;
+  height: 33rem;
+}
+
+.footer .box-container .box h3{
+  font-size: 2.5rem;
+  color: #fff;
+  padding: .7rem 2rem;
+}
+
+
+.footer .box-container .box p{
+  
+  font-size: 1.5rem;
+  padding: .7rem 2rem;
+  color: #eee;
+}
+.footer .box-container .box a{
+  display: block;
+  font-size: 1.5rem;
+  padding: .5rem 2rem;
+  color: #eee;
+  text-decoration: none;
+
+}
+
+

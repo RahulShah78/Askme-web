@@ -1,0 +1,272 @@
+{
+  "submenu":[
+    {
+      "Objects": {
+        "Categories": [
+          {
+            "id": 1,
+            "category": "Web Development",
+            "links": [
+              { "id": 1, "navigatePage": "PHP", "link": "/php" },
+              { "id": 2, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 3, "navigatePage": "React Js", "link": "/react" },
+              { "id": 4, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 5, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 6, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 7, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 2,
+            "category": "Mobile App Development",
+            "links": [
+              { "id": 8, "navigatePage": "PHP", "link": "/php" },
+              { "id": 9, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 10, "navigatePage": "React Js", "link": "/react" },
+              { "id": 11, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 12, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 13, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 14, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 3,
+            "category": "Ecommerce Development",
+            "links": [
+              { "id": 15, "navigatePage": "PHP", "link": "/php" },
+              { "id": 16, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 17, "navigatePage": "React Js", "link": "/react" },
+              { "id": 18, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 19, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 20, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 21, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 4,
+            "category": "Digital Marketing",
+            "links": [
+              { "id": 22, "navigatePage": "PHP", "link": "/php" },
+              { "id": 23, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 24, "navigatePage": "React Js", "link": "/react" },
+              { "id": 25, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 26, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 27, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 28, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 5,
+            "category": "Digital Transformation",
+            "links": [
+              { "id": 29, "navigatePage": "PHP", "link": "/php" },
+              { "id": 30, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 31, "navigatePage": "React Js", "link": "/react" },
+              { "id": 32, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 33, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 34, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 35, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 6,
+            "category": "Salesforce Development",
+            "links": [
+              { "id": 36, "navigatePage": "PHP", "link": "/php" },
+              { "id": 37, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 38, "navigatePage": "React Js", "link": "/react" },
+              { "id": 39, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 40, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 41, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 42, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 7,
+            "category": "Independent Testing",
+            "links": [
+              { "id": 43, "navigatePage": "PHP", "link": "/php" },
+              { "id": 44, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 45, "navigatePage": "React Js", "link": "/react" },
+              { "id": 46, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 47, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 48, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 49, "navigatePage": "Python", "link": "/python" }
+            ]
+          },
+          {
+            "id": 8,
+            "category": "Branding Services",
+            "links": [
+              { "id": 50, "navigatePage": "PHP", "link": "/php" },
+              { "id": 51, "navigatePage": "Laravel", "link": "/laravel" },
+              { "id": 52, "navigatePage": "React Js", "link": "/react" },
+              { "id": 53, "navigatePage": "CakePHP", "link": "/cakephp" },
+              { "id": 54, "navigatePage": "Codeigniter", "link": "/codeigniter" },
+              { "id": 55, "navigatePage": "TypeScript", "link": "/typescript" },
+              { "id": 56, "navigatePage": "Python", "link": "/python" }
+            ]
+          }
+        ]
+      }
+    },
+    
+    {
+      "Objects": {
+        "Categories": [
+          {
+            "id": 1,
+            "category": "Hire App Developers",
+            "links": [
+              { "id": 1, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 2, "navigatePage": "Android", "link": "/android" },
+              { "id": 3, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 4, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 5, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 2,
+            "category": "Hire QA Engineer",
+            "links": [
+              { "id": 6, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 7, "navigatePage": "Android", "link": "/android" },
+              { "id": 8, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 9, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 10, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 3,
+            "category": "Hire Js Developers",
+            "links": [
+              { "id": 11, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 12, "navigatePage": "Android", "link": "/android" },
+              { "id": 13, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 14, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 15, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 4,
+            "category": "Hire Web Developers",
+            "links": [
+              { "id": 16, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 17, "navigatePage": "Android", "link": "/android" },
+              { "id": 18, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 19, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 20, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 5,
+            "category": "Digital Transformation",
+            "links": [
+              { "id": 21, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 22, "navigatePage": "Android", "link": "/android" },
+              { "id": 23, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 24, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 25, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 6,
+            "category": "Hire Full Stack Developers",
+            "links": [
+              { "id": 26, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 27, "navigatePage": "Android", "link": "/android" },
+              { "id": 28, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 29, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 30, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          },
+          {
+            "id": 7,
+            "category": "Salesforce Developers",
+            "links": [
+              { "id": 31, "navigatePage": "Ios", "link": "/ios" },
+              { "id": 32, "navigatePage": "Android", "link": "/android" },
+              { "id": 33, "navigatePage": "Swift", "link": "/swift" },
+              { "id": 34, "navigatePage": "React Native", "link": "/reactnative" },
+              { "id": 35, "navigatePage": "Flutter", "link": "/flutter" }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "Objects": {
+        "Categories": [
+          {
+            "id": 1,
+            "category": "Real State",
+            "link": "/ios"
+          },
+          {
+            "id": 2,
+            "category": "Manufacturing",
+            "link": "/android"
+          },
+          {
+            "id": 3,
+            "category": "E-commerce",
+            "link": "/swift"
+          },
+          {
+            "id": 4,
+            "category": "Education",
+            "link": "/reactnative"
+          }
+        ]
+      }
+    },
+
+    {
+      "Objects": {
+        "Categories": [
+          {
+            "id": 1,
+            "category": "About Us",
+            "link": "/about-us"
+          },
+          {
+            "id": 2,
+            "category": "Careers",
+            "link": "/careers"
+          },
+          {
+            "id": 3,
+            "category": "How we work",
+            "link": "/how-we-work"
+          },
+          {
+            "id": 4,
+            "category": "Our Team",
+            "link": "/our-team"
+          },
+          {
+            "id": 5,
+            "category": "Mission Vission",
+            "link": "/mission-vision"
+          },
+          {
+            "id": 6,
+            "category": "Our Value",
+            "link": "/our-value"
+          },
+          {
+            "id": 7,
+            "category": "Case Study",
+            "link": "/case-study"
+          },
+          {
+            "id": 8,
+            "category": "Blogs",
+            "link": "/blogs"
+          }
+        ]
+      }
+    }
+  ]
+}

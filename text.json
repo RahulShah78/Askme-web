@@ -1,0 +1,35 @@
+{
+  "user": {
+    "Objects": [
+      {
+        "id": 1,
+        "Image":"https://dfck301lncdlh.cloudfront.net/images/Mission&Vision.webp",
+        "title": "Our Mission",
+        "description": "Our mission statement says, “helping our clients create their future”. "
+        
+      },
+      {
+          
+          "id": 2,
+          "title": "Group Companies",
+        "description": "Established in 2018, Askme Technologies is a global consulting and IT services company with more than 50+ employees. "
+      },
+      {
+        "id": 3,
+        "title": "Our Technology Partners",
+        "description": "We work with leading technology companies to help our clients deliver exceptional personalized experiences to their customers"
+      },
+      {
+        "id": 4,
+        "title": "Meet Our Leaders",
+        "description": "Meet our leaders and the hard-working personalities who deliver innovative concepts to corporations like yours."
+      },
+      {
+        "id": 5,
+        "title": "Are you the best?",
+        "description": "Become a part of a technology revolution working with us. We are a customer-oriented digital solutions provider. Ever since our inception, we have grown by leaps and bounds with the notable efforts of our workforce."
+      }
+    ]
+  }
+}
+
